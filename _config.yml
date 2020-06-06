@@ -6,7 +6,6 @@ highlighter:         pygments
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:            Codinfox
@@ -15,8 +14,8 @@ description:      'Blog of YourName. Here are some technical stuff. Some notes a
 url:              http://codinfox.github.io
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
+  name:           'otto yoon'
+  url:            http://ottoyoon98.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
