@@ -2,7 +2,7 @@
 title: Otto's Dev. Blog.
 tagline: '0770 Developer blog'
 description: ""
-baseurl: ""
+baseurl: "/otto"
 url: http://ottoyoon98.github.io
 logo: '/public/logo.png'
 
