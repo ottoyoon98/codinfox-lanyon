@@ -12,13 +12,13 @@
         </a>
       </div>
       <div class="sidebar-personal-info-section">
-        <p>{{ site.author.description }}</p>
+        <p>{{ site.author.description }}</p> 
       </div>
       {% if site.author.contact %}
       {% assign len = site.author.contact | size %}
       {% assign current_index = 0 %}
       <div class="sidebar-personal-info-section">
-        <p> Follow me: 
+        <p> Follow me:
         {% for contact in site.author.contact %}
         {% assign iconname = contact[0] %}
         {% if contact[0] == 'email' %}

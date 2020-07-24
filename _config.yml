@@ -25,7 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: otto
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  description: A passionate <strong>coding, algorithm, veganism and environment</strong>.
   gravatar: 1a472965526fcb700e603f662a72f96e # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/ottoyoon98
@@ -53,8 +53,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+  image: /public/img/mountain.jpg
+  caption: Original Artwork &copy; <a href="https://pixabay.com/ko/illustrations/%EC%82%B0-%EC%96%B8%EB%8D%95-%EC%88%B2-%EC%95%84%ED%8A%B8-%EB%82%B3-%EB%8B%A4-5309606/">BUMIPUTRA</a>
 
 # Puglins
 mathjax: true # whether support mathjax
